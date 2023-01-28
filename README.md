@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ShaTir24
-- 👀 I’m interested in Android development.
+- 👋 Hi, I’m Tirth Shah. (@ShaTir24)
+- 👀 I’m interested in Web3 development.
 - 📫 My twitter handle is @24ShaTir.
 - Personal info:
-- 🎂 2nd March
-- Age : 19
+- 🎂 2nd March 2002
+- 🎓 IT undergrad at LDCE Ahmedabad.
 - 📍 India
 
 <!---
